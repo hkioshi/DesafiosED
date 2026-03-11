@@ -39,6 +39,13 @@ void RemoveUltimo(struct no * lista)
 
 void remove_value(struct no *lista, int value)
 {
+    // Se a lista estiver vazia, não faz nada
+    // Percorre a lista nó por nó
+    // Verifica se o próximo nó contém o valor desejado
+    // Se contiver, faz o nó atual apontar para o próximo do próximo,
+    // removendo assim o nó da lista
+    // Encerra a função após remover o primeiro valor encontrado
+
     for (struct no* curr = lista; curr != NULL; curr = curr->prox)
     {
         if(curr->prox->info == value && lista->prox->prox != NULL)
