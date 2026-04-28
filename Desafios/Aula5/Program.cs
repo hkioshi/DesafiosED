@@ -1,4 +1,5 @@
-﻿public class Node
+﻿// See https://aka.ms/new-console-template for more information
+public class Node
 {
     public int Key { get; set; }
     public Node Left { get; set; }

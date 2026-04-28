@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-BST bst = new(2);
+﻿BST bst = new(2);
 
 bst.Insert(15);
 bst.Insert(10);
@@ -11,7 +10,7 @@ bst.Insert(21);
 Console.WriteLine("In-order traversal (Sorted keys):");
 bst.PrintInOrder();
 Console.WriteLine("Visualização mais legal:");
-bst.CoolPrint(); 
+bst.CoolPrint();
 public class Node
 {
     public int Key { get; set; }
@@ -124,7 +123,7 @@ public class BST
 
     public void PrintInOrderRecursivo() =>
         PrintInOrderR(Raiz);
-    
+
     private void PrintInOrderR(Node nodeAtual)
     {
         if (nodeAtual != null)

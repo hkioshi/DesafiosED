@@ -16,7 +16,7 @@ public class Pokemon
         Tipo = tipo;
         Vida = vida;
         Ataque = ataque;
-        Defesa = defesa;    
+        Defesa = defesa;
     }
     public void ExibirStatus()
     {
@@ -41,7 +41,7 @@ public class PokemonFogo : Pokemon
     public PokemonFogo(string nome, string tipo, int vida, int ataque, int defesa) : base(nome, tipo, vida, ataque, defesa) { }
     public override void Atacar(Pokemon alvo)
     {
-        if (alvo.Tipo == "Grama" )
+        if (alvo.Tipo == "Grama")
         {
             Console.WriteLine($"{Nome} é super efetivo contra {alvo.Nome}!");
             Ataque += 5;
@@ -68,13 +68,13 @@ public class PokemonAgua : Pokemon
         if (dano < 0)
             dano = 0;
         alvo.Vida -= dano;
-        Vida += 2; 
+        Vida += 2;
         Console.WriteLine($"{Nome} atacou {alvo.Nome} causando {dano} de dano!");
     }
 }
 public class PokemonGrama : Pokemon
 {
-    public PokemonGrama(string nome, string tipo, int vida, int ataque, int defesa) : base(nome, tipo, vida, ataque, defesa){}
+    public PokemonGrama(string nome, string tipo, int vida, int ataque, int defesa) : base(nome, tipo, vida, ataque, defesa) { }
     public override void Atacar(Pokemon alvo)
     {
         if (alvo.Tipo == "Agua")
