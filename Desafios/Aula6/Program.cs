@@ -153,7 +153,7 @@ public class BST
             return nodeAtual;
         return MinR(nodeAtual.Left);
     }
-    public void CoolPrint() =>
+    public void CoolPrint() => 
         CoolPrintR(Raiz, 0);
 
     private void CoolPrintR(Node nodeAtual, int level)

@@ -3,11 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\hkios\\source\\repos\\Projetos Faculdade\\DesafiosED\\Desafios\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{103C7912-8806-4521-8E19-BA109F325982}|Aula7\\Aula7.csproj|c:\\users\\hkios\\source\\repos\\projetos faculdade\\desafiosed\\desafios\\aula7\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{103C7912-8806-4521-8E19-BA109F325982}|Aula7\\Aula7.csproj|solutionrelative:aula7\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{103C7912-8806-4521-8E19-BA109F325982}|Aula7\\Aula7.csproj|c:\\users\\hkios\\source\\repos\\projetos faculdade\\desafiosed\\desafios\\aula7\\nodeavl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{103C7912-8806-4521-8E19-BA109F325982}|Aula7\\Aula7.csproj|solutionrelative:aula7\\nodeavl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{103C7912-8806-4521-8E19-BA109F325982}|Aula7\\Aula7.csproj|c:\\users\\hkios\\source\\repos\\projetos faculdade\\desafiosed\\desafios\\aula7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{103C7912-8806-4521-8E19-BA109F325982}|Aula7\\Aula7.csproj|solutionrelative:aula7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hkios\\OneDrive\\\u00C1rea de Trabalho\\Desafios\\Aula7\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hkios\\source\\repos\\Projetos Faculdade\\DesafiosED\\Desafios\\Aula7\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aula7\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{103C7912-8806-4521-8E19-BA109F325982}|Aula7\\Aula7.csproj|c:\\users\\hkios\\source\\repos\\projetos faculdade\\desafiosed\\desafios\\aula7\\avl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{103C7912-8806-4521-8E19-BA109F325982}|Aula7\\Aula7.csproj|solutionrelative:aula7\\avl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{103C7912-8806-4521-8E19-BA109F325982}|Aula7\\Aula7.csproj|c:\\users\\hkios\\source\\repos\\projetos faculdade\\desafiosed\\desafios\\aula7\\bst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{103C7912-8806-4521-8E19-BA109F325982}|Aula7\\Aula7.csproj|solutionrelative:aula7\\bst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{103C7912-8806-4521-8E19-BA109F325982}|Aula7\\Aula7.csproj|c:\\users\\hkios\\source\\repos\\projetos faculdade\\desafiosed\\desafios\\aula7\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{103C7912-8806-4521-8E19-BA109F325982}|Aula7\\Aula7.csproj|solutionrelative:aula7\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,8 +37,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AVL.cs",
+              "DocumentMoniker": "C:\\Users\\hkios\\source\\repos\\Projetos Faculdade\\DesafiosED\\Desafios\\Aula7\\AVL.cs",
+              "RelativeDocumentMoniker": "Aula7\\AVL.cs",
+              "ToolTip": "C:\\Users\\hkios\\source\\repos\\Projetos Faculdade\\DesafiosED\\Desafios\\Aula7\\AVL.cs",
+              "RelativeToolTip": "Aula7\\AVL.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T16:28:46.616Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:1437532281:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
@@ -30,6 +64,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\hkios\\source\\repos\\Projetos Faculdade\\DesafiosED\\Desafios\\Aula7\\Menu.cs",
+              "RelativeDocumentMoniker": "Aula7\\Menu.cs",
+              "ToolTip": "C:\\Users\\hkios\\source\\repos\\Projetos Faculdade\\DesafiosED\\Desafios\\Aula7\\Menu.cs",
+              "RelativeToolTip": "Aula7\\Menu.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAgwFEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T23:34:02.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NodeAVL.cs",
+              "DocumentMoniker": "C:\\Users\\hkios\\source\\repos\\Projetos Faculdade\\DesafiosED\\Desafios\\Aula7\\NodeAVL.cs",
+              "RelativeDocumentMoniker": "Aula7\\NodeAVL.cs",
+              "ToolTip": "C:\\Users\\hkios\\source\\repos\\Projetos Faculdade\\DesafiosED\\Desafios\\Aula7\\NodeAVL.cs",
+              "RelativeToolTip": "Aula7\\NodeAVL.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T17:17:43.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\hkios\\source\\repos\\Projetos Faculdade\\DesafiosED\\Desafios\\Aula7\\Node.cs",
+              "RelativeDocumentMoniker": "Aula7\\Node.cs",
+              "ToolTip": "C:\\Users\\hkios\\source\\repos\\Projetos Faculdade\\DesafiosED\\Desafios\\Aula7\\Node.cs",
+              "RelativeToolTip": "Aula7\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T16:26:31.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hkios\\source\\repos\\Projetos Faculdade\\DesafiosED\\Desafios\\Aula7\\Program.cs",
+              "RelativeDocumentMoniker": "Aula7\\Program.cs",
+              "ToolTip": "C:\\Users\\hkios\\source\\repos\\Projetos Faculdade\\DesafiosED\\Desafios\\Aula7\\Program.cs",
+              "RelativeToolTip": "Aula7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T16:14:16.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BST.cs",
+              "DocumentMoniker": "C:\\Users\\hkios\\source\\repos\\Projetos Faculdade\\DesafiosED\\Desafios\\Aula7\\BST.cs",
+              "RelativeDocumentMoniker": "Aula7\\BST.cs",
+              "ToolTip": "C:\\Users\\hkios\\source\\repos\\Projetos Faculdade\\DesafiosED\\Desafios\\Aula7\\BST.cs",
+              "RelativeToolTip": "Aula7\\BST.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T15:44:48.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hkios\\OneDrive\\\u00C1rea de Trabalho\\Desafios\\Aula7\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\OneDrive\\\u00C1rea de Trabalho\\Desafios\\Aula7\\Program.cs",
@@ -39,18 +138,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-28T15:21:24.144Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hkios\\source\\repos\\Projetos Faculdade\\DesafiosED\\Desafios\\Aula7\\Program.cs",
-              "RelativeDocumentMoniker": "Aula7\\Program.cs",
-              "ToolTip": "C:\\Users\\hkios\\source\\repos\\Projetos Faculdade\\DesafiosED\\Desafios\\Aula7\\Program.cs",
-              "RelativeToolTip": "Aula7\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T15:21:03.126Z"
             }
           ]
         }

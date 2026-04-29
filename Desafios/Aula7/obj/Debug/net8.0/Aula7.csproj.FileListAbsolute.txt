@@ -1,0 +1,15 @@
+C:\Users\hkios\source\repos\Projetos Faculdade\DesafiosED\Desafios\Aula7\bin\Debug\net8.0\Aula7.exe
+C:\Users\hkios\source\repos\Projetos Faculdade\DesafiosED\Desafios\Aula7\bin\Debug\net8.0\Aula7.deps.json
+C:\Users\hkios\source\repos\Projetos Faculdade\DesafiosED\Desafios\Aula7\bin\Debug\net8.0\Aula7.runtimeconfig.json
+C:\Users\hkios\source\repos\Projetos Faculdade\DesafiosED\Desafios\Aula7\bin\Debug\net8.0\Aula7.dll
+C:\Users\hkios\source\repos\Projetos Faculdade\DesafiosED\Desafios\Aula7\bin\Debug\net8.0\Aula7.pdb
+C:\Users\hkios\source\repos\Projetos Faculdade\DesafiosED\Desafios\Aula7\obj\Debug\net8.0\Aula7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hkios\source\repos\Projetos Faculdade\DesafiosED\Desafios\Aula7\obj\Debug\net8.0\Aula7.AssemblyInfoInputs.cache
+C:\Users\hkios\source\repos\Projetos Faculdade\DesafiosED\Desafios\Aula7\obj\Debug\net8.0\Aula7.AssemblyInfo.cs
+C:\Users\hkios\source\repos\Projetos Faculdade\DesafiosED\Desafios\Aula7\obj\Debug\net8.0\Aula7.csproj.CoreCompileInputs.cache
+C:\Users\hkios\source\repos\Projetos Faculdade\DesafiosED\Desafios\Aula7\obj\Debug\net8.0\Aula7.sourcelink.json
+C:\Users\hkios\source\repos\Projetos Faculdade\DesafiosED\Desafios\Aula7\obj\Debug\net8.0\Aula7.dll
+C:\Users\hkios\source\repos\Projetos Faculdade\DesafiosED\Desafios\Aula7\obj\Debug\net8.0\refint\Aula7.dll
+C:\Users\hkios\source\repos\Projetos Faculdade\DesafiosED\Desafios\Aula7\obj\Debug\net8.0\Aula7.pdb
+C:\Users\hkios\source\repos\Projetos Faculdade\DesafiosED\Desafios\Aula7\obj\Debug\net8.0\Aula7.genruntimeconfig.cache
+C:\Users\hkios\source\repos\Projetos Faculdade\DesafiosED\Desafios\Aula7\obj\Debug\net8.0\ref\Aula7.dll
